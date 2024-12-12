@@ -42,7 +42,7 @@ section {
 
 .horizontal-sections {
   display: flex;
-  width: 300vw;
+  width: 200vw;
   height: 100vh;
 }
 
